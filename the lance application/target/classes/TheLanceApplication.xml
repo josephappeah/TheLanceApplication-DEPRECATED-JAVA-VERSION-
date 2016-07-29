@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:task="http://www.springframework.org/schema/task" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+		http://www.springframework.org/schema/beans		http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/task		http://www.springframework.org/schema/task/spring-task-3.0.xsd"
+	default-autowire="no">
+	
+	
+	<bean id="dependencyinjector" class="com.josephappeah.corporate.the_lance_application.utils.DependencyHandler"></bean>
+	<bean id="computervision" class="com.josephappeah.corporate.the_lance_application.utils.ComputerVisionHandler" scope="singleton">
+			<constructor-arg ref="dependencyinjector"></constructor-arg>
+	</bean>
+	<bean id="imagesearch" class="com.josephappeah.corporate.the_lance_application.utils.ImageSearchHandler" scope="singleton">
+			<constructor-arg ref="dependencyinjector"></constructor-arg>
+	</bean>
+	<bean id="lanceapplicationserver" class="com.josephappeah.corporate.the_lance_application.resources.TheLanceApplicationServer">
+				<constructor-arg ref="dependencyinjector"></constructor-arg>
+	</bean>
+	
+	<bean id="computervisionresource" class="com.josephappeah.corporate.the_lance_application.services.ComputerVisionResource" scope="singleton">
+
+	</bean>
+	
+	<bean id="imagesearchresource" class="com.josephappeah.corporate.the_lance_application.services.ImageSearchResource" scope="singleton">
+
+	</bean>
+	
+	
+	</beans>

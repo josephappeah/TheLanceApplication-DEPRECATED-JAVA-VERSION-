@@ -1,0 +1,15 @@
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/services/ImageSearchResource.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/utils/ImageSearchHandler.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/interfaces/RestResource.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/interfaces/DependencyInjector.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/searchalgorithm/NounPhraseGenerator.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/resources/TheLanceApplication.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/services/ComputerVisionResource.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/utils/DependencyHandler.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/services/EmailSenderResource.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/application/TheLanceApplicationApp.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/searchalgorithm/StringTokenizer.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/utils/ComputerVisionHandler.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/interfaces/GetImageMetadata.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/resources/TheLanceApplicationServer.java
+/Users/josephappeah/Desktop/the lance application/src/main/java/com/josephappeah/corporate/the_lance_application/utils/EmailHandler.java

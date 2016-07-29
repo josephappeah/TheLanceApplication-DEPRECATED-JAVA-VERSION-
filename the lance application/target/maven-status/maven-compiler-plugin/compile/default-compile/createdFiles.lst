@@ -1,0 +1,16 @@
+com/josephappeah/corporate/the_lance_application/resources/TheLanceApplication.class
+com/josephappeah/corporate/the_lance_application/services/ComputerVisionResource.class
+com/josephappeah/corporate/the_lance_application/searchalgorithm/NounPhraseGenerator.class
+com/josephappeah/corporate/the_lance_application/utils/EmailHandler$1.class
+com/josephappeah/corporate/the_lance_application/searchalgorithm/StringTokenizer.class
+com/josephappeah/corporate/the_lance_application/services/ImageSearchResource.class
+com/josephappeah/corporate/the_lance_application/utils/ComputerVisionHandler.class
+com/josephappeah/corporate/the_lance_application/utils/EmailHandler.class
+com/josephappeah/corporate/the_lance_application/services/EmailSenderResource.class
+com/josephappeah/corporate/the_lance_application/application/TheLanceApplicationApp.class
+com/josephappeah/corporate/the_lance_application/interfaces/RestResource.class
+com/josephappeah/corporate/the_lance_application/interfaces/DependencyInjector.class
+com/josephappeah/corporate/the_lance_application/utils/DependencyHandler.class
+com/josephappeah/corporate/the_lance_application/resources/TheLanceApplicationServer.class
+com/josephappeah/corporate/the_lance_application/interfaces/GetImageMetadata.class
+com/josephappeah/corporate/the_lance_application/utils/ImageSearchHandler.class
